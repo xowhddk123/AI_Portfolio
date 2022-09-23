@@ -1,1 +1,2 @@
-# aiffel_exp
+# AIFFEL Exploration 과제 관리 
+
